@@ -25,7 +25,7 @@
   <distributionManagement>
     <snapshotRepository>
         <id>artifactory</id>
-        <url>http://13.232.241.97:8081/artifactory/libs-snapshot-local</url>
+        <url>http://13.232.241.97:8081/artifactory/nishant_sample</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
